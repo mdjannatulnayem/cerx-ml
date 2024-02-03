@@ -8,7 +8,7 @@ class crex_utility:
         self.fuel = 0
         self.ewt = 0
         self.lwt = 0
-        self.fuel = 0
+        self.det = 0
         self.max_t = 0
 
     def take_input(self):
